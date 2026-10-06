@@ -1,0 +1,5 @@
+Vehicle: TN99ZZ9999 | Type: Car | Owner: Test | Slot: C1 | Entry: 17-09-2026 16:56:28 | Exit: 17-09-2026 16:57:10 | Fee: 30.00
+Vehicle: TN10BB2222 | Type: Car | Owner: kir | Slot: C2 | Entry: 17-09-2026 18:11:12 | Exit: 17-09-2026 18:12:33 | Fee: 30.00
+Vehicle: TN20BI1234 | Type: Bike | Owner: sure | Slot: B1 | Entry: 17-09-2026 18:14:23 | Exit: 17-09-2026 18:15:14 | Fee: 15.00
+Vehicle: TN10AB1234 | Type: Car | Owner: t | Slot: C1 | Entry: 17-09-2026 21:54:57 | Exit: 24-09-2026 22:20:38 | Fee: 5070.00
+Vehicle: TN22CD4561 | Type: Bike | Owner: Adp | Slot: B1 | Entry: 24-09-2026 22:25:17 | Exit: 24-09-2026 22:28:27 | Fee: 15.00
